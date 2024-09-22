@@ -1,17 +1,19 @@
 {
     "logo": {
-        "url": "/images/logo-dark.svg",
+        "url": "/images/Absolute_Infinity.webp",
         "altText": "Logo dark",
         "styles": {
             "self": {
-                "margin": ["mr-3"]
+                "margin": [
+                    "mr-3"
+                ]
             }
         },
         "type": "ImageBlock"
     },
     "primaryLinks": [
         {
-            "label": "Pricing",
+            "label": "PLANS OF JOINING",
             "url": "/pricing",
             "icon": "arrowRight",
             "iconPosition": "right",
@@ -41,7 +43,7 @@
             "altText": "Dropdown",
             "links": [
                 {
-                    "label": "Dropdown item",
+                    "label": "ABOUT TAI",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
@@ -49,7 +51,7 @@
                     "type": "Link"
                 },
                 {
-                    "label": "Dropdown item",
+                    "label": "ABOUT RACE",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
@@ -57,7 +59,7 @@
                     "type": "Link"
                 },
                 {
-                    "label": "Dropdown item",
+                    "label": "ABOUT MHDPA(KM)2",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
@@ -81,7 +83,7 @@
         },
         {
             "label": "Log in",
-            "url": "/",
+            "url": "/pricing",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
