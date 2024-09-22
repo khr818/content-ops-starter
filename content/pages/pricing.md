@@ -18,7 +18,7 @@ sections:
           THE ABSOLUTE INFINITY (TAI) IS VERY MUCH A GROUP BECAUSE IS IS MAIN
           SOURCE GROUP OF ALL
         features:
-          - Feature one
+          - FIRST GROUP
           - Feature two
           - Feature three
           - Feature four
