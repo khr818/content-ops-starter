@@ -81,7 +81,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: TAI MEMBERS
     items:
       - title: Account Executive
         subtitle: Sales
