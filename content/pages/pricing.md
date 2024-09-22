@@ -3,7 +3,7 @@ title: Pricing
 slug: pricing
 sections:
   - title:
-      text: Flexible Pricing
+      text: TAI PLANS FOR YOUR GROUP
       color: text-dark
       styles:
         self:
