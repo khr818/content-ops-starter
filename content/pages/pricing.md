@@ -19,7 +19,7 @@ sections:
           SOURCE GROUP OF ALL
         features:
           - FIRST GROUP
-          - Feature two
+          - ADMIN GROUP
           - Feature three
           - Feature four
         image:
