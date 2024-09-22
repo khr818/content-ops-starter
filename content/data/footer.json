@@ -1,6 +1,6 @@
 {
     "logo": {
-        "url": "/images/logo-white.svg",
+        "url": "/images/Absolute_Infinity.webp",
         "altText": "Logo light",
         "type": "ImageBlock"
     },
@@ -62,7 +62,7 @@
     "socialLinks": [
         {
             "altText": "GitHub link",
-            "url": "https://github.com/netlify",
+            "url": "https://github.com/khr818",
             "icon": "github",
             "type": "Social"
         },
@@ -80,7 +80,7 @@
         },
         {
             "altText": "Email link",
-            "url": "/",
+            "url": "mhdpa.km.2@gmail.com",
             "icon": "mail",
             "type": "Social"
         }
