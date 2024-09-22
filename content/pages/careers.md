@@ -75,15 +75,15 @@ sections:
         textAlign: center
     type: FeaturedPeopleSection
   - title:
-      text: Open positions
+      text: OTHER MEMBERS
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: TAI MEMBERS
     items:
-      - title: Account Executive
+      - title: SANJEEV SIDDHARTH
         subtitle: Sales
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
@@ -102,7 +102,7 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: Open Source Engineer
+      - title: SREEVANTH S J
         subtitle: Marketing
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
@@ -121,7 +121,7 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: Senior Software Engineer
+      - title: ''
         subtitle: Engineering
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
