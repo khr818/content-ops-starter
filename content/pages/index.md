@@ -112,10 +112,9 @@ sections:
         type: FeaturedItem
       - title: 2000%
         subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          WE HAVE MANY FAST RUNNERS, ATHELETE AND MANY PERSONALS WHO HAS BETTER
+          KNOWLEDGE
         image:
           url: /images/icon3.svg
           altText: Featured icon three
