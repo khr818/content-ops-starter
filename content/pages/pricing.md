@@ -21,7 +21,7 @@ sections:
           - FIRST GROUP
           - ADMIN GROUP
           - HARSHAN RAGAHV (EDITOR) IN THIS GROUP
-          - Feature four
+          - WE ARE A GROUP OF FRIENDSHIP
         image:
           url: /images/abstract-feature1.svg
           altText: Pricing plan 1
