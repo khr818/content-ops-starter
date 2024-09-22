@@ -62,10 +62,9 @@ sections:
       - type: FeaturedItem
         title: 20+
         subtitle: MEMBERS
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          TAI HAS MORE THAN 20 MEMBERS IN ITS GROUP . JUST AS IT GREW UP TO
+          TWENTY IN PAST 1 YEAR
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
