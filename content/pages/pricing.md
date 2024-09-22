@@ -14,9 +14,9 @@ sections:
       - title: Developers
         price: TAI
         details: No credit card required
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >
+          THE ABSOLUTE INFINITY (TAI) IS VERY MUCH A GROUP BECAUSE IS IS MAIN
+          SOURCE GROUP OF ALL
         features:
           - Feature one
           - Feature two
