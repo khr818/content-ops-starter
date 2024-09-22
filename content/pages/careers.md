@@ -75,7 +75,7 @@ sections:
         textAlign: center
     type: FeaturedPeopleSection
   - title:
-      text: Open positions
+      text: OTHER MEMBERS
       color: text-dark
       styles:
         self:
