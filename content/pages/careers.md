@@ -83,7 +83,7 @@ sections:
       type: TitleBlock
     subtitle: TAI MEMBERS
     items:
-      - title: Account Executive
+      - title: SANJEEV SIDDHARTH
         subtitle: Sales
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
