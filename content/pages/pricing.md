@@ -20,7 +20,7 @@ sections:
         features:
           - FIRST GROUP
           - ADMIN GROUP
-          - Feature three
+          - HARSHAN RAGAHV (EDITOR) IN THIS GROUP
           - Feature four
         image:
           url: /images/abstract-feature1.svg
