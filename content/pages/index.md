@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Join In My Group To Make You My Friend!
+      text: Join* In My Group To Make You My Friend!
       color: text-dark
       type: TitleBlock
     subtitle: '*'
