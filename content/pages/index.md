@@ -57,7 +57,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: INCLUDING MHDPA&RACE
     items:
       - type: FeaturedItem
         title: 20+
