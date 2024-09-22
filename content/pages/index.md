@@ -7,7 +7,7 @@ sections:
       text: Join* In My Group To Make You My Friend!
       color: text-dark
       type: TitleBlock
-    subtitle: '*'
+    subtitle: '* To Join Select Plans of joining'
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
